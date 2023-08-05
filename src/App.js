@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <nav>
-        <h1>Social Media App</h1>
+        <h1>TravelMedia.in</h1>
       </nav>
       <Routes>
         <Route path="/" element={<HomePage />} />
