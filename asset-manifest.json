@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend-4-module-test-july/static/css/main.55971296.css",
+    "main.js": "/frontend-4-module-test-july/static/js/main.8496b496.js",
+    "index.html": "/frontend-4-module-test-july/index.html",
+    "main.55971296.css.map": "/frontend-4-module-test-july/static/css/main.55971296.css.map",
+    "main.8496b496.js.map": "/frontend-4-module-test-july/static/js/main.8496b496.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55971296.css",
+    "static/js/main.8496b496.js"
+  ]
+}
